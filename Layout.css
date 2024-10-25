@@ -1,0 +1,13 @@
+project_directory/
+│
+├── datasets/
+│   ├── Training_set/
+│   │   ├── vibration/
+│   │   │   ├── vibration1.csv
+│   │   │   └── ...
+│   │   └── temperature/
+│   └── Validation_set/
+│   └── Test_set/
+├── data_loader.py
+├── model_builder.py
+└── main.py
